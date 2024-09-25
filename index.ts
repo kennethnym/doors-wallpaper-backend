@@ -1,7 +1,7 @@
 import express from "express";
 
 const app = express();
-const port = 8080;
+const port = process.env.PORT || 8080;
 
 app.get("/wallpapers", async (req, res) => {
 	const dataFile = Bun.file("./data.json");
