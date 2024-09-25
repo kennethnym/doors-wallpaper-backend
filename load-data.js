@@ -6,18 +6,23 @@ cloudinary.config({
 	api_secret: process.env.CLOUDINARY_API_SECRET,
 });
 
-cloudinary.api.resources_by_asset_folder("wallpaper", (error, result) => {
-	if (error) {
-		console.error(error);
-		return;
-	}
+try {
+	const result = await cloudinary.api.resources_by_asset_folder("wallpaper", {
+		max_results: 500,
+	});
+
+	const metadataFile = Bun.file("./metadata.json");
+	const metadata = await metadataFile.json();
 
 	const data = result.resources.map((res) => ({
 		...res,
-		thumbnail_url: `https://res.cloudinary.com/${process.env.CLOUDINARY_CLOUD_NAME}/image/upload/c_scale,w_300/${encodeURIComponent(res.public_id)}.${res.format}`,
+		...(metadata[res.public_id] ?? {}),
+		thumbnail_url: `https://res.cloudinary.com/${process.env.CLOUDINARY_CLOUD_NAME}/image/upload/c_scale,w_400/${encodeURIComponent(res.public_id)}.${res.format}`,
 	}));
 
 	Bun.write("./data.json", JSON.stringify(data)).then(() => {
 		console.log("Wallpaper data saved successfully.");
 	});
-});
+} catch (error) {
+	console.error(error);
+}
