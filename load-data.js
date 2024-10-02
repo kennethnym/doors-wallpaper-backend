@@ -21,48 +21,12 @@ async function obtainWallpaperData(s, fileName, credits, allData) {
 }
 
 async function generateThumbnail(s, fileName) {
-	await s.resize(400).toFile(join(cwd, "wallpapers", `thumbnail_${fileName}`));
-}
-
-async function pullPanelsContent(allData) {
-	const contentFile = Bun.file("./panels-content.json");
-	const content = await contentFile.json();
-
 	try {
-		const res = await fetch(
-			"https://storage.googleapis.com/panels-api/data/20240916/media-1a-i-p~uhd",
-		);
-		if (res.status !== 200) {
-			return;
-		}
-
-		const media = await res.json();
-
-		for (const wallpaper of content.wallpapers) {
-			const { hd: id, w: width, h: height } = wallpaper.dlm;
-			const artistId = wallpaper.artistId;
-			const artist = content.artists.find((a) => a.id === artistId);
-			if (!artist) continue;
-
-			const urls = media.data[`${id}`];
-			if ("dhd" in urls && "dsd" in urls) {
-				const dhdUrl = new URL(urls.dhd);
-				allData.push({
-					width,
-					height,
-					public_id: `${id}`,
-					format: extname(dhdUrl.pathname),
-					display_name: wallpaper.label || "",
-					secure_url: urls.dhd,
-					thumbnail_url: urls.dsd,
-					is_ai_generated: false,
-					creator_name: artist.label,
-					source_url: "https://panels.art",
-				});
-			}
-		}
-	} catch (err) {
-		console.warn("unable to pull from panels", err);
+		await s
+			.resize(400)
+			.toFile(join(cwd, "wallpapers", `thumbnail_${fileName}`));
+	} catch (error) {
+		console.warn(`failed to generate thumbnail for ${fileName}: ${error}`);
 	}
 }
 
@@ -76,7 +40,7 @@ try {
 	const metadata = await metadataFile.json();
 
 	const allData = [];
-	const promises = [pullPanelsContent(allData)];
+	const promises = [];
 	for (const wallpaper of wallpapers) {
 		const s = sharp(join(cwd, "wallpapers", wallpaper));
 		promises.push(
@@ -87,7 +51,7 @@ try {
 		);
 	}
 
-	await Promise.all(promises);
+	await Promise.allSettled(promises);
 
 	Bun.write("./data.json", JSON.stringify(allData)).then(() => {
 		console.log("Wallpaper data saved successfully.");
