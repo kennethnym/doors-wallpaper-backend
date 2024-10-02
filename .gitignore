@@ -175,3 +175,6 @@ dist
 .DS_Store
 
 data.json
+wallpapers/
+panels-content.json
+panels-media.json

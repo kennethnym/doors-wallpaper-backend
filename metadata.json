@@ -1,663 +1,1398 @@
 {
-	"wallpaper/Sculpture of Julius Caesar": {
+	"Sculpture of Julius Caesar": {
 		"source_url": "https://www.pexels.com/photo/sculpture-of-julius-caesar-18088652/",
 		"creator_name": "Alejandro Aznar"
 	},
-	"wallpaper/Raydrop": {
+	"Raydrop": {
 		"source_url": "https://www.raycast.com/wallpapers",
 		"creator_name": "Raycast"
 	},
-	"wallpaper/Colorful Splash": {
+	"Colorful Splash": {
 		"source_url": "https://x.com/images_ai",
 		"creator_name": "images_ai",
 		"is_ai_generated": true
 	},
-	"wallpaper/Spiral 1A": {
+	"Spiral 1A": {
 		"source_url": "https://ariweinkle.com/art/spirals",
 		"creator_name": "Ari Weinkle"
 	},
-	"wallpaper/Spiral 1B": {
+	"Spiral 1B": {
 		"source_url": "https://ariweinkle.com/art/spirals",
 		"creator_name": "Ari Weinkle"
 	},
-	"wallpaper/Spiral 2A": {
+	"Spiral 2A": {
 		"source_url": "https://ariweinkle.com/art/spirals",
 		"creator_name": "Ari Weinkle"
 	},
-	"wallpaper/Spiral 2B": {
+	"Spiral 2B": {
 		"source_url": "https://ariweinkle.com/art/spirals",
 		"creator_name": "Ari Weinkle"
 	},
-	"wallpaper/Spiral 3A": {
+	"Spiral 3A": {
 		"source_url": "https://ariweinkle.com/art/spirals",
 		"creator_name": "Ari Weinkle"
 	},
-	"wallpaper/Spiral 3B": {
+	"Spiral 3B": {
 		"source_url": "https://ariweinkle.com/art/spirals",
 		"creator_name": "Ari Weinkle"
 	},
-	"wallpaper/Spiral 4A": {
+	"Spiral 4A": {
 		"source_url": "https://ariweinkle.com/art/spirals",
 		"creator_name": "Ari Weinkle"
 	},
-	"wallpaper/Spiral 4B": {
+	"Spiral 4B": {
 		"source_url": "https://ariweinkle.com/art/spirals",
 		"creator_name": "Ari Weinkle"
 	},
-	"wallpaper/Spiral 5A": {
+	"Spiral 5A": {
 		"source_url": "https://ariweinkle.com/art/spirals",
 		"creator_name": "Ari Weinkle"
 	},
-	"wallpaper/Spiral 5B": {
+	"Spiral 5B": {
 		"source_url": "https://ariweinkle.com/art/spirals",
 		"creator_name": "Ari Weinkle"
 	},
-	"wallpaper/Spiral 6A": {
+	"Spiral 6A": {
 		"source_url": "https://ariweinkle.com/art/spirals",
 		"creator_name": "Ari Weinkle"
 	},
-	"wallpaper/Spiral 6B": {
+	"Spiral 6B": {
 		"source_url": "https://ariweinkle.com/art/spirals",
 		"creator_name": "Ari Weinkle"
 	},
-	"wallpaper/AnotherWorldIMake": {
+	"AnotherWorldIMake": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/ApologyOfSpin": {
+	"ApologyOfSpin": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/AvalonTakeMe": {
+	"AvalonTakeMe": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/CAMP-01": {
+	"CAMP-01": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/CAMP-02": {
+	"CAMP-02": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/CAMP-03": {
+	"CAMP-03": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/CAMP-04": {
+	"CAMP-04": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/CAMP-05": {
+	"CAMP-05": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/CAMP-06": {
+	"CAMP-06": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/CAMP-07": {
+	"CAMP-07": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/CAMP-08": {
+	"CAMP-08": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/CAMP-09": {
+	"CAMP-09": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/DangersCouldBeHere-1": {
+	"DangersCouldBeHere-1": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/DeathByTruth": {
+	"DeathByTruth": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/Design": {
+	"Design": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/Designer2": {
+	"Designer2": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/Designer3": {
+	"Designer3": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/Designer4": {
+	"Designer4": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/EarthTheHeavenBeforeIt": {
+	"EarthTheHeavenBeforeIt": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/FasSugar-6": {
+	"FasSugar-6": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/FearIsTheMindKiller": {
+	"FearIsTheMindKiller": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/FlickerHandWisdom": {
+	"FlickerHandWisdom": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/GoodHere": {
+	"GoodHere": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/HandFeedsHand": {
+	"HandFeedsHand": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/Image_20240109_0002": {
+	"Image_20240109_0002": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/Image_20240109_0013": {
+	"Image_20240109_0013": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/Image_20240109_0137": {
+	"Image_20240109_0137": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/Johnler2": {
+	"Johnler2": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/MAN-01": {
+	"MAN-01": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/Monomyth01": {
+	"Monomyth01": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NOUS-BRAND-01": {
+	"NOUS-BRAND-01": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NOUS-BRAND-02": {
+	"NOUS-BRAND-02": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NOUS-BRAND-03": {
+	"NOUS-BRAND-03": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NOUS-BRAND-04": {
+	"NOUS-BRAND-04": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NOUS-BRAND-05": {
+	"NOUS-BRAND-05": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NOUS-BRAND-06": {
+	"NOUS-BRAND-06": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NOUS-BRAND-07": {
+	"NOUS-BRAND-07": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NOUS-BRAND-08": {
+	"NOUS-BRAND-08": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NOUS-BRAND-09": {
+	"NOUS-BRAND-09": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NOUS-BRAND-10": {
+	"NOUS-BRAND-10": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NOUS-BRAND-11": {
+	"NOUS-BRAND-11": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NOUS-BRAND-12": {
+	"NOUS-BRAND-12": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NOUS-BRAND-13": {
+	"NOUS-BRAND-13": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NOUS-BRAND-14": {
+	"NOUS-BRAND-14": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NonUsablePlayer": {
+	"NonUsablePlayer": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NousArchive-2": {
+	"NousArchive-2": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NousArchive-3": {
+	"NousArchive-3": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NousArchive-4": {
+	"NousArchive-4": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/NousArchive-5": {
+	"NousArchive-5": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/ORT-01": {
+	"ORT-01": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/ORT-02": {
+	"ORT-02": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/ORT-03": {
+	"ORT-03": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/PFP-1": {
+	"PFP-1": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/PFP-2": {
+	"PFP-2": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/POWER-01": {
+	"POWER-01": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/POWER-02": {
+	"POWER-02": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/POWER-03": {
+	"POWER-03": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/POWER-04": {
+	"POWER-04": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/POWER-05": {
+	"POWER-05": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/Prismer": {
+	"Prismer": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/RIVA-AUS-18": {
+	"RIVA-AUS-18": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/RIVA-AUS-BLANK": {
+	"RIVA-AUS-BLANK": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/ReticulationMembers3": {
+	"ReticulationMembers3": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/ReturnedToFender": {
+	"ReturnedToFender": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/ReturnedToFender2": {
+	"ReturnedToFender2": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/SanctionsOnTheMoon": {
+	"SanctionsOnTheMoon": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/Screenshot 2024-04-15 at 9.15.33 AM": {
+	"Screenshot 2024-04-15 at 9.15.33 AM": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/SecularEndInSight": {
+	"SecularEndInSight": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/Spord-02": {
+	"Spord-02": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/Spord-03": {
+	"Spord-03": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/Telling": {
+	"Telling": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/ThoseWithoutClaws2": {
+	"ThoseWithoutClaws2": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/TwoDial": {
+	"TwoDial": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/UnassignedMentions": {
+	"UnassignedMentions": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/WRAITH-01": {
+	"WRAITH-01": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/WRAITH-02": {
+	"WRAITH-02": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/WRAITH-03": {
+	"WRAITH-03": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/WRAITH-04": {
+	"WRAITH-04": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/WRAITH-05": {
+	"WRAITH-05": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/WRAITH-06": {
+	"WRAITH-06": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/WorldSimEyes": {
+	"WorldSimEyes": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/WorldSimCons-1": {
+	"WorldSimCons-1": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/WorldSimCons-2": {
+	"WorldSimCons-2": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/WorldSimCons-3": {
+	"WorldSimCons-3": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/WorldSimCons-4": {
+	"WorldSimCons-4": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/WorldSimCons-5": {
+	"WorldSimCons-5": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/WorldSimCons-6": {
+	"WorldSimCons-6": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/WorldSimCons-7": {
+	"WorldSimCons-7": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/herme011": {
+	"herme011": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/herme012": {
+	"herme012": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/herme013": {
+	"herme013": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/herme014": {
+	"herme014": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/herme015": {
+	"herme015": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/herme02": {
+	"herme02": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/herme03": {
+	"herme03": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/herme04": {
+	"herme04": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/herme05": {
+	"herme05": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/herme06": {
+	"herme06": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/herme07": {
+	"herme07": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/herme08": {
+	"herme08": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/herme09": {
+	"herme09": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/phm01": {
+	"phm01": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/phm02": {
+	"phm02": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/phm03": {
+	"phm03": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/phm04": {
+	"phm04": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/phm05": {
+	"phm05": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/phm06": {
+	"phm06": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/phm07": {
+	"phm07": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/phm08": {
+	"phm08": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/phm09": {
+	"phm09": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/phm10": {
+	"phm10": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/phm11": {
+	"phm11": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/phm12": {
+	"phm12": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/phm14": {
+	"phm14": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/phm15": {
+	"phm15": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/rezzed-1": {
+	"rezzed-1": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/repnous-test1": {
+	"repnous-test1": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/repnous-test2": {
+	"repnous-test2": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/repnous-test3": {
+	"repnous-test3": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/repnous-test4": {
+	"repnous-test4": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/nousnew02": {
+	"nousnew02": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/nousnew03": {
+	"nousnew03": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/nousnew04": {
+	"nousnew04": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/nous-rp-01": {
+	"nous-rp-01": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/nous-rp-02": {
+	"nous-rp-02": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/nous-rp-03": {
+	"nous-rp-03": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/nous-rp-04": {
+	"nous-rp-04": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/nous-rp-05": {
+	"nous-rp-05": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/nous-rp-06": {
+	"nous-rp-06": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/nous-rp-07": {
+	"nous-rp-07": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/nous-rp-08": {
+	"nous-rp-08": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/nous-rp-09": {
+	"nous-rp-09": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doomscroll05": {
+	"doomscroll05": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doomscroll06": {
+	"doomscroll06": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doomscroll07": {
+	"doomscroll07": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doomscroll08": {
+	"doomscroll08": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doomscroll09": {
+	"doomscroll09": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doomscroll10": {
+	"doomscroll10": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doomscroll11": {
+	"doomscroll11": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doomscroll12": {
+	"doomscroll12": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doomscroll13": {
+	"doomscroll13": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doomscroll14": {
+	"doomscroll14": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doomscroll15": {
+	"doomscroll15": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doomscroll16": {
+	"doomscroll16": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doomscroll17": {
+	"doomscroll17": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doomscroll18": {
+	"doomscroll18": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doomscroll19": {
+	"doomscroll19": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doom232222": {
+	"doom232222": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doom33333333333": {
+	"doom33333333333": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
 	},
-	"wallpaper/doom-Wii": {
+	"doom-Wii": {
 		"source_url": "https://nousresearch.com/",
 		"creator_name": "Nous Research"
+	},
+	"bananapanda._A_Roman_soldier_is_lying_in_the_grass_next_to_his__abea38bb-c669-4758-954b-55ea9da1d64c": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._A_Roman_soldier_sits_at_a_sleek_modern_desk_within_d3792ad0-753f-45ef-85dd-be3b3cd2e560": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._A_Roman_soldier_wearing_traditional_Roman_armor_is_0e6eb4c2-c145-4416-9260-e7317b2fe3ff": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._A_cartoon_by_matt_Bors_grainy_texture_A_resolute_R_848d5c10-d9cd-43e9-9003-22246b1a7b5f": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._A_classic_Leonardo_da_Vinci_full-frame_painting_of_f91b632e-482d-4fd3-be38-ac0d451de419": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._A_floating_island_with_an_ancient_castle_and_a_gol_4433f70b-9985-4cc4-9f4e-2ed2e98baecd": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._A_painting_by_rembrandt_of_a_soldier_with_a_tradit_800c929a-b8bd-4fc5-bd2e-2e9567350dab": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._A_painting_by_rembrandt_of_a_soldier_with_a_tradit_bd19d0ba-6572-4aa8-afc1-621283cbe2c8": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._A_roman_soldier_on_a_hill_at_sunrise_tradition_bea_eba043d8-6cf3-41fa-a098-0b301ba56af1": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._A_simple_manga_drawing_depicts_an_upside-down_fush_1b4e1327-cd4e-401e-bc08-dc12a8fd0f7c": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._A_tiny_gently_rounded_mountain_peak_with_soft_flow_5eb6c0c0-8208-4e14-9e30-76d5fe9a20bc": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._An_Egyptian_necropolis_is_illuminated_with_neon_hi_487015e4-6129-4168-85c5-36783f5bd7d9": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._An_engineer_is_sitting_at_his_desk_sipping_coffee__39c32d2f-0de3-4a04-a7e7-5f517ea4d445": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._Bygone_Passion._hyper_realistic_Renaissance_painti_f1e5c341-1da0-4126-98e6-169318f19741": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._Classical_Intimacy_hyper_realistic_Renaissance_pai_c5f4a1cc-b754-4898-9043-3f5711d35b02": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._Da_Vincis_Augmented_Workshop_classical_roman_techn_6dd4bde4-1584-4d2f-9e07-ab21f0c0e830": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._Dawns_Awakening_Embrace_roman_soldier_in_a_field_f_15273d91-d3a0-4534-9947-855a36dfc296": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._Frontier_jungle_planet_with_a_rocketsihp_flying_in_35d02e59-e88d-4732-9b96-e4943fcdde9a": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._Illustrate_photorealistic_detailed_image_of_a_rock_6497b53b-3916-477b-8718-16b8415960fb": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._In_the_style_of_studio_ghibli_a_futuristic_robot_w_cd919f2a-7642-4b96-b80b-9f32b1988ca4": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._In_the_style_of_studio_ghibli_a_wide_angle_scene_s_edd6bec2-388b-4256-991e-a1e8238fe43d": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._Johannes_Vermeer_a_roman_soldier_standing_with_his_07823b21-4447-475a-8d79-8ec4860d2690": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._Large_seed_ships_colony_ships_fusion-powered_rocke_9f177e9e-4daa-430e-9467-816551544c00": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._Minimalist_poster_of_Concorde_flying_over_New_York_218efab8-24f9-452f-a3cd-5198757a2b4c": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._Orbital_factories_and_shipyards_construction_docks_f5e2bd94-4080-4c06-9260-53154e68dcd1": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._Practicing_his_sword_strong_motion_rapid_movements_16028248-e61d-4256-b970-7b3a22673b17": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._Practicing_his_sword_strong_motion_rapid_movements_d1d267bc-1da8-483d-9b4f-50fda926b3d8": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._Practicing_his_sword_strong_motion_rapid_movements_d84c1ab4-f0e7-41f2-811e-985eb2ea835a": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._Quantum_Quattrocento_A_Renaissance-era_cityscape_i_8b1a9aa5-e3da-4395-b36a-d74642df0983": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._Quantum_Quattrocento_A_Renaissance-era_cityscape_i_f4c8c8ff-fb21-486f-bf1f-f3f3179bb5bc": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_beautiful_biology_wallpaper_--ar_12_--personaliz_6e967f10-8102-4485-bfef-fbd2a069dff4": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_beautiful_biology_wallpaper_--ar_12_--personaliz_b381ad20-9380-4de0-8e05-b631b0ccb463": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_beautiful_renaissance_painting_of_a_roman_soldie_8cdae079-48ce-4d3c-96b4-41a8b762e7d3": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_beautiful_wallpaper_of_biology_--ar_25_--stylize_95ef83f0-a010-4d0e-8bcb-46f1426dcc6e": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_beautiful_wallpaper_of_mathematics_--ar_919_--pe_37225142-1c8d-42d2-9f39-7446e9a11459": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_cartoon_by_matt_bors_with_caravaggio_inspiration_400293cd-8497-451d-be10-c40399d3f508": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_classical_Michelangelo_painting_of_a_futuristic__3a51766c-7d9a-4ce5-b120-ea9156e9ec7d": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_classical_caravaggio_painting_of_a_futuristic_an_b649aabf-e845-4c3c-b792-8cda0398e013": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_classical_leonardo_da_Vinci_full_frame_painting__0aea1599-554f-4710-a9cd-777ac0f9f661": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_futuristic_and_sci-fi_advanced_robot_white_with__9495b921-94e6-4e60-9113-202a3931c8b4": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_futuristic_car_with_the_design_of_a_tesla_cybert_54f0c8d9-7711-4f8f-8908-9208b3514b51": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_giant_spaceship_flying_through_hyperspace_at_the_0bf688bd-4a10-423f-b266-a2b1bc5125b7": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_magnificent_spaceship_crossing_the_vast_intergal_58f41cde-0393-4090-938b-77e8400faeaa": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_masterpiece_in_the_style_of_renaissance_art_made_49d8449f-40af-423b-8b85-8ba0a1627745": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_masterpiece_in_the_style_of_renaissance_art_made_7331932a-89da-49d0-a456-fbc5786a78b8": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_mining_operation_on_an_asteroid_breathtaking_sur_8c049065-290e-4fc7-94e0-10657d17d4e7": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_painting_by_caravaggio._A_Roman_soldier_wearing__b03182cf-626d-419b-a37c-0e5c795afc04": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_painting_in_the_style_of_Andy_Warhol_a_roman_sol_62a0b8e5-e245-4d44-a2a0-4ee53a725d91": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_painting_in_the_style_of_Jan_van_Eyck._A_roman_s_68d9f7fa-1874-4481-a012-1b3b769171cf": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_painting_in_the_style_of_Jan_van_Eyck._A_roman_s_b6d1cbd9-09c7-4f4a-a695-3f4d1c71592e": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_painting_in_the_style_of_Jan_van_Eyck._A_roman_s_cb6fc441-61d3-418c-a5e9-571e99737e59": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_painting_in_the_style_of_Raphael_a_roman_soldier_ccdea8e1-89ff-426a-b6c0-1afa52e81a9b": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_painting_in_the_style_of_Raphael_of_a_futuristic_ebd2ed1c-2ade-4a58-aa49-97cbe7250a41": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_photo_of_a_roman_soldier_holding_a_cat_in_a_sere_738a917d-99e8-40d5-a9e9-0bd5fa16e1bf": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_poster_of_a_orbital_station_above_earth_--ar_12__500786b2-6673-4844-b5bc-c58946f213e6": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_poster_of_a_rocketship_crossing_above_earth_in_t_544d0098-b339-4299-a2da-4f3a82366980": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_emperor_with_an_iron_mask_covering_his_who_a4b170e4-2c62-471a-9025-421655078422": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_falling_from_they_sky_with_his_swo_3451c3c4-1361-4a99-b715-f7f6716ed4ba": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_holding_his_son_in_his_arms_on_top_45b4027c-ad3f-42c1-bb60-42229cbb105e": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_in_a_field_petting_a_cat_flowers_a_be88121c-2d0e-458c-8169-d9df39945d62": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_overlooking_a_flying_spaceship_spa_71951d5f-8161-47c9-a5e9-7b4268a5f943": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__24466274-09c7-4d4d-98ce-7f4e8cf12d39": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__2d3bf5ee-2da2-4e90-af30-30b90cee9393": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__410a70de-c972-4a92-8b78-180bf428d9c5": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__4c1df60c-70f9-4d90-9029-a0a5b749bb77": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__4c940d18-103e-49b4-b88f-ed6d03e32377": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__5637bcc8-7aaf-4679-b059-3ed98c5d4ecc": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__5b13243d-e365-4663-a30f-f6c2c88d970a": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__801cdb23-7080-44a5-a5e3-9bc1e7287778": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__872ab512-ab0d-4eef-9dcc-67aa10ac3492": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__8c738b36-ca53-4685-98b1-693242d72ce3": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__95979574-e60d-49c0-b37d-a1989197e4af": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__98a8ff9d-4dbb-44ee-95b1-53d26cce9e54": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__9ee236fd-b5b7-463f-b3fc-3087baa7e34f": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__c2545599-e524-4333-b194-bec9ba9217ef": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__ccdbde51-94a2-4eef-baa8-340660827159": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__d5fae868-c413-41ed-bac8-20bba94ebd31": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__d8859140-4574-4e0a-b7d4-8db35aaabf49": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__f0b7cf9a-e021-4f5b-84b6-82c40d737d00": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_practicing_his_sword_in_a_forward__f82d255f-7ec9-4a97-87a1-c5fd8112cbc6": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_sitting_in_a_meditation_pose_at_th_00a072c4-d1b9-41b1-b386-3487b9effef9": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_standing_at_the_window_of_an_inter_d68d5b7a-b9d0-44ed-bd9a-2a4f85fcc679": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_wearing_a_traditional_roman_armor__4eae1d7d-f9b4-42d5-ae78-2afa903ed04b": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_wearing_a_traditional_roman_armor__92dcef6e-4672-4e4a-aa05-834bd0bc35d6": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_with_a_beautiful_red_armor_on_a_gr_0a022641-da49-4c1d-9024-600c3a3e0568": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_with_a_traditional_roman_armor_and_0038a4d1-5b84-4891-bcf7-9dfe7101d3bf": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_with_a_traditional_roman_armor_and_6b08910b-38ab-4d87-84dc-190d12a76a87": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_roman_soldier_with_a_traditional_roman_armor_and_bed9d5e9-46f4-466f-b70f-97c57e899ac8": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_scene_titled_Ad_Astra_featuring_a_robot_gazing_u_e14787b4-c46d-446e-ba7e-48d0c897c63b": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._a_team_of_engineers_standing_on_top_of_a_new_galac_3433b358-1087-4895-b613-30fa38c66063": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._an_androgynous_futuristic_robot_draped_in_a_beauti_7cb9b361-5840-4f41-aece-6c7fff9b5c40": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._anime_style_a_shinobi_soldier_on_a_hill_at_sunrise_0b69e4af-8cc2-4bd7-b9d5-89938d3f1ee4": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._athenas_algorithmic_gaze_wallpaper_classical_roman_9d50c688-81a4-421e-bbdd-1064c2aecfde": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._athenas_algorithmic_gaze_wallpaper_classical_roman_b9878343-4d51-4ff1-bcf5-1bd2a955998e": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._athenas_algorithmic_gaze_wallpaper_classical_roman_c84bcd39-82ce-45ff-beda-fe9fa758e7a0": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._athenas_algorithmic_gaze_wallpaper_classical_roman_f8dbd8ae-1b52-474d-82db-dc3a0a165a70": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._eureka_in_binary_brushstrokes_wallpaper_classical__0826c04a-5924-4327-bcd0-e90cb357400e": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._eureka_in_binary_brushstrokes_wallpaper_classical__594fe648-0569-4ec3-b344-c6a80b6a0f16": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._eureka_in_binary_brushstrokes_wallpaper_classical__dcb09fa4-2dc5-42cf-913b-e2f243d1e278": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._eureka_in_binary_brushstrokes_wallpaper_classical__ee4f728e-c5dd-4e99-b77d-6505873f22fd": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._helios_and_the_quantum_dawn_wallpaper_classical_ro_06401e30-a5ea-45d9-a46d-cbb64fce0bbd": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._helios_and_the_quantum_dawn_wallpaper_classical_ro_58e78d9c-d879-4abc-a44a-7900ade8ed50": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._helios_and_the_quantum_dawn_wallpaper_classical_ro_75ca68b0-a4eb-4d7a-a9a9-246f1d63a6e8": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._helios_and_the_quantum_dawn_wallpaper_classical_ro_b918515f-ccc4-4ccb-9285-43d476b550c3": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._httpss.mj.run5JnPQTJjk0M_a_classical_Michelangelo__96279e92-18a9-4c94-a596-42ea9764bcec": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._httpss.mj.runHfsnv9f9p1U_a_roman_soldier_looking_a_9ef948f8-e629-4d28-9f14-73d86841e309": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._httpss.mj.runeArLf8ztKCQ_a_roman_soldier_practicin_90d1da74-d63a-4e8b-8150-cd5150cd8683": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._httpss.mj.runujTP0zDTqsc_roman_soldier_practicing__78e49133-a1a2-4bb8-8946-e26daf7a6ba0": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._hyper_realistic_Renaissance_painting_a_futuristic__04dba28d-c896-413a-a25b-1f917f6d09b3": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._hyper_realistic_Renaissance_painting_of_a_roman_so_7676b7fe-654b-4831-9f25-846324806a8c": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._hyper_realistic_Renaissance_painting_of_a_roman_so_7f2e5f1d-2c2a-47de-ba4c-48677dc73b4b": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._hyper_realistic_Renaissance_painting_of_a_roman_so_c4108f76-2af9-4400-a8da-a4ad5bd804cf": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._hyper_realistic_Renaissance_painting_of_a_roman_so_f7cfbe90-4878-4922-b797-ff0c2a183558": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._impressionistic_painting._a_future_where_perfectio_de330bac-fc7c-4af7-8210-0a21cfdf68b2": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._impressionistic_painting_in_the_style_of_Caravaggi_fabbf99d-304e-4b3d-83e7-fe17569c2295": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._in_the_style_of_Hirohiko_Araki_a_roman_soldier_on__945c8bb3-3dd4-4cde-b3de-0ea5e5daa636": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._in_the_vast_emptiness_of_space_two_space_explorers_1abdad47-b8ea-4b11-9832-4b74b9b84237": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._in_the_vast_emptiness_of_space_two_space_explorers_32eb4780-24c0-46b2-aeac-4a9ad28192ad": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._marble_sculpture_of_zeus_--ar_12_--stylize_555_--v_8618c742-2979-4425-8ce3-379ec85abcca": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._painting_in_the_style_of_magritte_of_a_roman_soldi_0afd9848-c7e3-4be9-84f6-29cafd336fce": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._persephones_digital_descent_wallpaper_classical_ro_15474157-1c30-4834-bb30-f1dac8b0bdb2": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._persephones_digital_descent_wallpaper_classical_ro_8b22dec0-770d-497d-8365-15cbd2139127": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._persephones_digital_descent_wallpaper_classical_ro_d0355507-0e68-4d4e-af96-e94b970a7ae0": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._persephones_digital_descent_wallpaper_classical_ro_f859f4f2-ba68-47ca-968d-744b628375ac": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._red_roman_soldier_full_body_pose_striking_with_his_d7491cec-34c3-43cd-b0a6-8f62c95936a3": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._renaissance_painting_a_roman_soldier_at_sunrise_on_e9bc014e-769d-4b3f-a894-0acd53ef2bd8": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._renaissance_painting_a_roman_soldier_in_a_sword_fi_2e8d7220-1c29-45b8-9fa2-0c2961b9fc23": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._renaissance_painting_of_a_roman_soldier_--ar_37123_9b32e5ce-8227-4b6e-9447-5611b0022197": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._resting_on_a_sunday_with_the_family__roman_soldier_b2a60bf1-72ba-4bd6-86c7-61f226788240": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._resting_on_a_sunday_with_the_family_roman_soldier__511d17bd-78d6-4780-bf39-4284ba9cf38a": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._roman_flow_wallpaper_--chaos_20_--ar_43_--personal_f0fd5902-085a-4b39-bfa0-0b1740dc616f": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._roman_soldier_practicing_his_sword_composed_of_num_b4c51d66-6f7a-4da8-a81d-abefda045ff7": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._sipping_coffee_at_a_desk_looking_outside_of_the_wi_57edd9f7-3d9f-42f9-a93d-adaeffe3fb29": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._space_darkness_void._on_the_outline_profile_of_ear_1e9f25df-7289-4675-994e-50c362bface8": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._space_darkness_void._on_the_outline_profile_of_ear_f4fe8be1-8a5b-4ee0-be32-07e2495b3e28": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._surrealism_space._a_roman_soldier_is_riding_a_futu_ee501fbb-542c-4e32-bb6f-28e6b0c9853d": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._sword_practice_strong_motion_rapid_movements_forwa_6712e2f1-45d4-4f34-9180-51698837b60d": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._synthetic_anime_a_roman_soldier_in_a_field_at_suns_99e8ab52-b5fb-4e56-9bd5-4e22dd7786f7": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._t_shirt_graphic_design_a_roman_soldier_practicing__ce8acde9-e211-4f82-88c1-07f582677665": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._the_fall_of_icarus_neural_net_wallpaper_classical__13678d4d-3b2b-42e9-9677-104b2a73ce5b": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._the_fall_of_icarus_neural_net_wallpaper_classical__8bb0c852-1a6d-49c6-b6a0-d9e0e6ed0b28": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._the_fall_of_icarus_neural_net_wallpaper_classical__d9a714cd-8c8c-4fdf-b9cb-3bd429772ad9": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._the_fall_of_icarus_neural_net_wallpaper_classical__f48a78d2-e5ae-4b7d-965c-b83c82b1cf4f": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._the_last_supper_at_the_singularity_wallpaper_class_44a81dac-334d-4e9c-890f-91f6d7f40dc3": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._traditional_Chinese_art_of_a_soldier_holding_a_lar_6b53bba5-6946-4611-9ebd-23f28453e14a": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._vittorio_--personalize_6cyybfg_--stylize_1000_--v__9ddaf285-a129-4c27-9426-8cb3b31bd699": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
+	},
+	"bananapanda._wallpaper_serial_experiments_lain_while_holding_a__bc3d2166-b116-4376-9ac2-6fcf761b9867": {
+		"is_ai_generated": true,
+		"creator_name": "MidJourney",
+		"source_url": "https://midjourney.ai"
 	}
 }

@@ -4,6 +4,8 @@ import https from "node:https";
 const app = express();
 const port = process.env.PORT || 8080;
 
+app.use("/wallpapers", express.static("wallpapers"));
+
 app.get("/wallpapers", async (req, res) => {
 	const dataFile = Bun.file("./data.json");
 	const wallpaperData = await dataFile.json();
